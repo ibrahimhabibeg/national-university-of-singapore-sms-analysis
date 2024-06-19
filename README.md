@@ -40,7 +40,7 @@ Text Analysis
 - Clone this repository.
 - Install required libraries (pip install pandas nltk matplotlib).
 - Ensure the clean_nus_sms.csv file is in the same directory.
-- Run the Jupyter notebook National University of Singapore SMS Analysis.ipynb.
+- Run the Jupyter notebook.
 
 ## Acknowledgments
 
